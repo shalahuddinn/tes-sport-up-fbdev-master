@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Sport Up</string>
+    <string name="FACEBOOK_APP_ID">1973454016204179</string>
+    <string name="ACCOUNT_KIT_CLIENT_TOKEN">ced11cfde7cdd6fbb3aee4f3e47e18d6</string>
+    <string name="ak_login_protocol_scheme">ak1973454016204179</string>
+    <string name="fb_login_protocol_scheme">fb1973454016204179</string>
+    <string name="login_email_label">Login with Email</string>
+    <string name="login_phone_label">Login with Phone Number</string>
+    <string name="account">Account</string>
+    <string name="id_label">Account ID</string>
+    <string name="phone_label">Phone Number</string>
+    <string name="email_label">Email</string>
+    <string name="name_label">Name</string>
+    <string name="logout_label">Log Out</string>
+    <string name="action_settings">Settings</string>
+</resources>

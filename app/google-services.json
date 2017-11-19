@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1028078875417",
+    "firebase_url": "https://chattyup-3c710.firebaseio.com",
+    "project_id": "chattyup-3c710",
+    "storage_bucket": "chattyup-3c710.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1028078875417:android:376a82159ab8bead",
+        "android_client_info": {
+          "package_name": "com.example.android.sportup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1028078875417-trjhr2467egqerdfgeiejp47sqiklm57.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.android.sportup",
+            "certificate_hash": "c50fa90d8650210b193f7672a18d4ad46861b4f3"
+          }
+        },
+        {
+          "client_id": "1028078875417-apibvildmho6c2v29emgdsaf5e4moope.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCixvuKQ5FdVzUCsJQv3kksVoHU5gA0Uc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1028078875417-apibvildmho6c2v29emgdsaf5e4moope.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
